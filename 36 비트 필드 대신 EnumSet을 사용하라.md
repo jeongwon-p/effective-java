@@ -33,13 +33,13 @@ private class Text {
 
 #### EnumSet 클래스
 
-<img src="/img/image-20220105002209755.png" style="zoom:33%;" />
+<img src="/img/item36_EnumSet_Abstract_Structure.png" style="zoom:33%;" />
 
 EnumSet은 추상 클래스로 생성자 대신 인스턴스 생성을 위한 정적 팩터리 메소드가 정의되어 있다.
 
 
 
-<img src="/img/image-20220105002701940.png" style="zoom:50%;" />
+<img src="/img/item36_EnumSet_noneOf.png" style="zoom:50%;" />
 
 **RegularEnumSet**, **JumboEnumSet** 2가지의 EnumSet 구현체를 제공
 
